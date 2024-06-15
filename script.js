@@ -14,5 +14,6 @@ function mincost(arr)
   
 }
 cosole.log(mincost([4,3,2,6]);
+console.log([1,2,3,4,5]);
 
 module.exports=mincost;
